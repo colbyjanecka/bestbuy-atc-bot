@@ -9,7 +9,7 @@ An add-to-cart bot to scalp BestBuy ruthlessly
 
 3. Copy "chromedriver.exe" to 'C:\bin\"
 
-    open cmd.exe and run '!xLJe7iXHe%27ZG'
+    open cmd.exe and run `setx PATH "%PATH%;C:\bin"`
 
 4. Download this code as ZIP
 
