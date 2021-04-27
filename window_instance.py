@@ -5,8 +5,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 import info
 
-
-CD_PATH = "/Users/hiplandic/Desktop/bots/bestbuy-atc-bot/chromedriver"
+CD_PATH = info.chromedriver_path
 
 class WindowInstance:
     def __init__(self, sku):
